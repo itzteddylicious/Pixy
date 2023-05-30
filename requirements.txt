@@ -1,0 +1,5 @@
+rich==13.3.5
+jokeapi==1.0.5
+asyncio==3.4.3
+aiohttp==3.8.4
+art==5.9
