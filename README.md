@@ -1,5 +1,5 @@
 # __Pixy : A Virtual Assistant__
-#### Video Demo:
+#### Video Demo: <https://youtu.be/mgx6XlZIhmM>
 
 ## __Definition__
 This project is a virtual assistant to help users with some basic features
