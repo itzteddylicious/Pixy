@@ -12,15 +12,15 @@ Project features :
 
 ## __Libraries__
 
-__RICH__ : Render rich text, tables, progress bars, syntax highlighting, markdown and more to the terminal.[(Readmore)](https://pypi.org/project/rich/)
+__RICH__ : Render rich text, tables, progress bars, syntax highlighting, markdown and more to the terminal.[(Read more)](https://pypi.org/project/rich/)
 
-__JOKEAPI__ : An API wrapper for Sv443's joke api which provides simple yet versatile functionality, while also maintaining a readable codebase.[(Readmore)](https://pypi.org/project/jokeapi/)
+__JOKEAPI__ : An API wrapper for Sv443's joke api which provides simple yet versatile functionality, while also maintaining a readable codebase.[(Read more)](https://pypi.org/project/jokeapi/)
 
-__ASYNCIO__ : The asyncio module provides infrastructure for writing single-threaded concurrent code using coroutines, multiplexing I/O access over sockets and other resources, running network clients and servers, and other related primitives.[(Readmore)](https://pypi.org/project/asyncio/)
+__ASYNCIO__ : The asyncio module provides infrastructure for writing single-threaded concurrent code using coroutines, multiplexing I/O access over sockets and other resources, running network clients and servers, and other related primitives.[(Read more)](https://pypi.org/project/asyncio/)
 
-__AIOHTTP__ : Async http client/server framework (asyncio).[(Readmore)](https://pypi.org/project/aiohttp/)
+__AIOHTTP__ : Async http client/server framework (asyncio).[(Read more)](https://pypi.org/project/aiohttp/)
 
-__ART__ : ART is a Python lib for text converting to ASCII art.[(Readmore)](https://pyypi.org/project/art/)
+__ART__ : ART is a Python lib for text converting to ASCII art.[(Read more)](https://pyypi.org/project/art/)
 
 ## **Installing Libraries**
 All the libraries used for Pixy are either built-in or can be install using pip.
